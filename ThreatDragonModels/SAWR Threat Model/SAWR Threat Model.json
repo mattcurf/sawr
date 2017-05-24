@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "SAWR Threat Model",
+    "owner": "Michael McCool",
+    "description": "Simple Autonomous Wheeled Robot based on ROS."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Michael McCool"
+  }
+}
